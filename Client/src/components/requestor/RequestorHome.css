@@ -1,0 +1,29 @@
+.requestor-home {
+  background-image: url("https://i.pinimg.com/originals/4a/9a/0d/4a9a0d8185375ad6e4b20ab6daf1b152.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 0;
+  margin: 0;
+}
+
+/* .heading-text {
+  margin-top: 2rem;
+} */
+
+.requestor-main {
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.requestor-link {
+  margin: 3px;
+  color: #fa9c23;
+  text-decoration: none;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,14 @@
+.request-container {
+  background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm373batch15-bg-11-kqaiv1bm.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=1f21f7cdacb8138b3890ac267cf16c84");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.donor-container {
+  background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm373batch15-bg-11-kqaiv1bm.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=1f21f7cdacb8138b3890ac267cf16c84");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
